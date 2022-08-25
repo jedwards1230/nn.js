@@ -1,6 +1,6 @@
 {
   "name": "@jedwards1230/nn.js",
-  "version": "1.0.1",
+  "version": "1.0.5",
   "description": "A lil' ML library",
   "author": "justinedwards1230@gmail.com",
   "repository": "github:jedwards1230/nn.js",
