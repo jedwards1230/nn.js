@@ -1,6 +1,6 @@
 {
   "name": "@jedwards1230/nn.js",
-  "version": "1.0.6",
+  "version": "1.1.0",
   "description": "A lil' ML library",
   "author": "justinedwards1230@gmail.com",
   "repository": "github:jedwards1230/nn.js",
@@ -11,6 +11,7 @@
     "/dist"
   ],
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "tsc && npm publish"
   }
 }
