@@ -1,8 +1,9 @@
 {
   "name": "@jedwards1230/nn.js",
-  "version": "1.0.0",
-  "description": "",
+  "version": "1.0.1",
+  "description": "A lil' ML library",
   "author": "justinedwards1230@gmail.com",
+  "repository": "github:jedwards1230/nn.js",
   "license": "MIT",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
